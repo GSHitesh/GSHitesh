@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently exploring different frameworks of Javascript
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects & Advance DSA
 - 💬 Ask me about anything (except my secrets)
 
 **Languages and FrameWorks**
