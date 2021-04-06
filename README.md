@@ -8,8 +8,8 @@
 
 </span>
 
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently exploring different frameworks of Javascript
+- 🔭 I’m currently learning Google Cloud
+- 🌱 I’m currently exploring different Microsoft technologies 
 - 🥅 2021 Goals: Contribute more to Open Source projects & Advance DSA
 - 💬 Ask me about anything (except my secrets)
 
