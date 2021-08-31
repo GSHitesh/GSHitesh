@@ -8,7 +8,7 @@
 
 </span>
 
-- 🔭 I’m currently learning Google Cloud
+- 🔭 I’m currently learning Data Analytics From Coursera
 - 🌱 I’m currently exploring different Microsoft technologies 
 - 🥅 2021 Goals: Contribute more to Open Source projects & Advance DSA
 - 💬 Ask me about anything (except my secrets)
