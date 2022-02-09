@@ -8,9 +8,9 @@
 
 </span>
 
-- 🔭 I’m currently learning Data Analytics From Coursera
+- 🔭 I’m currently learning Java Programming
 - 🌱 I’m currently exploring different Microsoft technologies 
-- 🥅 2021 Goals: Contribute more to Open Source projects & Advance DSA
+- 🥅 2022 Goals: Learn and Practice Data Structure and Algorithms
 - 💬 Ask me about anything (except my secrets)
 
 **Languages and FrameWorks**
