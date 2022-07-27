@@ -15,7 +15,6 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 - 📫 How to reach me **saihitesh01@gmail.com**
-<br />
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=GSHitesh&label=Profile%20views&color=0e75b6&style=flat"
     alt="GSHitesh" /> 
