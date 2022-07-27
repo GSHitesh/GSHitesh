@@ -14,6 +14,7 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/gs_hitesh/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 📫 How to reach me **saihitesh01@gmail.com**
 <br />
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=GSHitesh&label=Profile%20views&color=0e75b6&style=flat"
@@ -24,12 +25,6 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 
 <p><img align="right" src="https://github.com/GSHitesh/GSHitesh/blob/main/animation_500_kxa883sd.gif" alt="GSHitesh" /></p>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **saihitesh01@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
