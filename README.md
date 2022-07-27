@@ -1,7 +1,20 @@
-[GSHitesh](https://github.com/GSHitesh)<h1 align="center">Hi 👋, I'm Hitesh Gorantla</h1>
-<h3 align="center">Student at VIT Vellore🌟.</h3>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<br>
+<h1 align="center"> नमस्ते (Namaste), I'm Gorantla Sai Hitesh<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+
+<h3 align="center">I'm a Developer from India ❤</h3>
+  
+A developer🎯 from India. I'm passionate about Development.:bar_chart: and Innovation :construction:. I like automating things, building pipelines, exploring new problems and improving efficiency and performance. Strong Advocate for Machine Learning, Web Development, Database :new: Innovation and Automation :robot: 
+
+
+<img width="50%" align="right" alt="Github Image" src="https://github.com/Manas1820/Manas1820/blob/master/profile%20Image.svg" />
+
+- 🌱 I’m currently learning AI, Competitive programming
+- 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/gs_hitesh/) 
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
+<br />
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=GSHitesh&label=Profile%20views&color=0e75b6&style=flat"
     alt="GSHitesh" /> 
@@ -82,3 +95,19 @@
 <br>
 
 <div align="center">
+    
+    ### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sai-hitesh-gorantla-76901b146/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gs_hitesh/)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/15256923/hitesh-gorantla)
+
+
+
+
+
+</div>
+
+
+![](https://github.com/Manas1820/Manas1820/blob/master/footer.png)
