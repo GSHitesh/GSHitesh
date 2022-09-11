@@ -11,7 +11,6 @@ A developer🎯 from India. I'm passionate about Development.:bar_chart: and Inn
 
 - 🌱 I’m currently learning AI, Competitive programming
 - 👯 I’m looking to collaborate on Machine Learning and basic Server Side Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/gs_hitesh/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 - 📫 How to reach me **saihitesh01@gmail.com**
