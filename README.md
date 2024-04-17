@@ -6,16 +6,16 @@
 <!-- Introduction -->
 <h1 align="center">नमस्ते (Namaste), I'm Gorantla Sai Hitesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!</h1>
 
-<h3 align="center">🚀 A Developer from India ❤</h3>
+<h3 align="center">🚀 SDE 2 at HPE | DevOps Engineer ❤</h3>
 
-👨‍💻 A passionate developer from India with a strong focus on development and innovation. I enjoy automating tasks, building efficient pipelines, and solving new problems to enhance efficiency and performance. My specialization lies in web development using Flask and Django frameworks. I also have a keen interest in exploring database innovations and automation. 🤖
+👨‍💻 A passionate developer and DevOps engineer from India, currently working as SDE 2 at HPE. I specialize in backend development and DevOps practices, with a focus on automation and efficiency. Proficient in languages like Python, Shell, and Groovy, along with utilizing Jenkins and various DevOps tools to streamline development workflows. 🤖
 
 <!-- Profile Image -->
 <img width="50%" align="right" alt="Github Image" src="https://github.com/Manas1820/Manas1820/blob/master/profile%20Image.svg">
 
 <!-- Learning and Collaboration -->
-- 🌱 Currently learning Flask, RestAPI in Django, and competitive programming.
-- 👯 Open to collaborations for Django RestAPIs and server-side development.
+- 🌱 Currently learning advanced DevOps techniques and cloud technologies.
+- 👯 Open to collaborations for DevOps projects and backend development.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: Jack of all trades, Master of None!
 - 📫 Reach me at saihitesh01@gmail.com.
@@ -28,19 +28,13 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40">
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40">
 </div>
 
 <!-- GitHub Stats -->
