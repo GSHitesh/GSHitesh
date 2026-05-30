@@ -70,19 +70,9 @@ runs on       a thinkpad that has seen things
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GSHitesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&bg_color=0D1117&cache_seconds=21600&v=2" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=GSHitesh&hide_border=true&background=0D1117&stroke=0D1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="Commit streak" />
 
 <br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSHitesh&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=0D1117&langs_count=8&cache_seconds=21600&v=2" alt="Top languages" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GSHitesh&theme=tokyonight" alt="Most committed languages" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GSHitesh&theme=tokyonight&utcOffset=5.5" alt="Productive hours" />
-
-<br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GSHitesh&bg_color=0D1117&color=22d3ee&line=a78bfa&point=f8fafc&hide_border=true&area=true&theme=react-dark&v=2" width="98%" alt="Contribution activity" />
 
