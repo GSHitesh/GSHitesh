@@ -1,69 +1,51 @@
-<div align="right">
-<sub>Document classification: <b>public</b> · last revised by author · v2.6</sub>
-</div>
-
 <!-- ════════════════════════════════ HEADER ANIMATION ════════════════════════════════ -->
 
 <p align="center">
   <a href="https://gshitesh.github.io/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=720&height=80&lines=hi%2C+i'm+sai+hitesh+gorantla.;system+engineer+%C2%B7+platform+%26+tooling+%40+HPE;i+make+slow+ops+%E2%86%92+fast%2C+boring+%E2%86%92+observable."
-      alt="Sai Hitesh Gorantla — System Engineer, Platform & Tooling at HPE"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=720&height=80&lines=hi%2C+i'm+hitesh.;i+make+slow+ops+%E2%86%92+fast%2C+boring+%E2%86%92+observable.;currently+breaking+%26+fixing+things+in+bengaluru."
+      alt="hi, i'm hitesh — i make slow ops fast and boring observable"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://gshitesh.github.io/"><img src="https://img.shields.io/badge/portfolio-gshitesh.github.io-22d3ee?style=flat-square&labelColor=05070d" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sai-hitesh-gorantla/"><img src="https://img.shields.io/badge/linkedin-sai--hitesh--gorantla-a78bfa?style=flat-square&labelColor=05070d" alt="linkedin" /></a>
-  <a href="mailto:saihitesh01@gmail.com"><img src="https://img.shields.io/badge/email-saihitesh01@gmail.com-5eead4?style=flat-square&labelColor=05070d" alt="email" /></a>
-  <img src="https://img.shields.io/badge/status-on--call_for_interesting_problems-fbbf24?style=flat-square&labelColor=05070d" alt="status" />
+  <a href="https://gshitesh.github.io/"><img src="https://img.shields.io/badge/site-gshitesh.github.io-22d3ee?style=flat-square&labelColor=0D1117" alt="site" /></a>
+  <a href="https://www.linkedin.com/in/sai-hitesh-gorantla/"><img src="https://img.shields.io/badge/linkedin-say%20hi-a78bfa?style=flat-square&labelColor=0D1117" alt="linkedin" /></a>
+  <a href="mailto:saihitesh01@gmail.com"><img src="https://img.shields.io/badge/email-saihitesh01-5eead4?style=flat-square&labelColor=0D1117" alt="email" /></a>
+  <img src="https://img.shields.io/badge/coffee-steady%20state-fbbf24?style=flat-square&labelColor=0D1117" alt="coffee" />
 </p>
 
 ---
 
-# Incident Report &mdash; `INC-2026-001`
+## hey 👋
 
-**Author:** Sai Hitesh Gorantla  &nbsp;·&nbsp;  **Severity:** S2 (mildly distracting)  &nbsp;·&nbsp;  **Status:** Ongoing  &nbsp;·&nbsp;  **Region:** `ap-south-blr-1`
-
-> A software engineer continues to operate in production. This document
-> captures what happened, what's still happening, and what (if anything)
-> can be done about it.
-
----
-
-## 1. Summary
-
-An individual matching the profile **`hitesh@prod`** has been observed
-designing APIs, gluing CI/CD pipelines together, and quietly turning
-2-hour manual ops into 30-second buttons. The behaviour is **expected**
-and **non-recoverable**. No rollback is planned.
+I'm Hitesh. I spend most of my days turning two-hour manual ops into
+thirty-second buttons, and most of my evenings reading about how someone
+else already solved it better.
 
 ```text
-ENVIRONMENT     production · staging · the laptop at 1 AM
-PRIMARY ROLE    System Engineer 2 — HPE · platform engineering, CI/CD, observability
-STACK           Python · C++ · Bash · Shell · SQL · Groovy
-RUNS ON         caffeine and a healthy fear of pager duty
-UPTIME          high · see telemetry below
+where         bengaluru · UTC+5:30
+mode          curious by default, opinionated about boring tooling
+fuel          coffee, mostly · the occasional good problem
+runs on       a thinkpad that has seen things
 ```
 
 ---
 
-## 2. Timeline
+## what I'm into right now
 
 <table>
-<tr><th align="left">When</th><th align="left">What</th></tr>
-<tr><td><code>2022 — Sep</code></td><td>Joined ITILITE. Built the API surface that connected the travel platform to GDS and partner vendors.</td></tr>
-<tr><td><code>2024 — Feb</code></td><td>Moved to HPE. Took over developer-experience tooling, RPM delivery, and observability for compute &amp; networking platforms.</td></tr>
-<tr><td><code>2025 — Q3</code></td><td>Repackaged a small mountain of OSS into one boring installable. Onboarding dropped from a half-day to under 60 seconds.</td></tr>
-<tr><td><code>2025 — Q4</code></td><td>Wired Slack into Jenkins. Engineers stopped tabbing between five UIs. Reporting cleaner, approvals faster.</td></tr>
-<tr><td><code>2026 — Jan</code></td><td>Earned <b>CompTIA Security+</b>. Now writes IAM policies that say "no" more politely.</td></tr>
-<tr><td><code>now</code></td><td>Writing a README in the form of a post-mortem because the regular kind felt dishonest.</td></tr>
+<tr><th align="left">when</th><th align="left">what</th></tr>
+<tr><td><code>this&nbsp;week</code></td><td>Wiring Slack into more places it doesn&rsquo;t belong, in a good way.</td></tr>
+<tr><td><code>this&nbsp;month</code></td><td>Quietly migrating a Jenkins fleet to GitHub Actions without anyone noticing.</td></tr>
+<tr><td><code>this&nbsp;year</code></td><td>Getting genuinely good at Rust. Reading one paper a week. Currently behind.</td></tr>
+<tr><td><code>always</code></td><td>Making production easier to look at than to ignore.</td></tr>
 </table>
 
 ---
 
-## 3. Affected systems
+## what I reach for
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -82,27 +64,9 @@ UPTIME          high · see telemetry below
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,docker,jenkins,githubactions,grafana,prometheus,linux,aws,postgres,git&theme=dark" alt="stack" />
 </p>
 
-For the full topology, see the [live portfolio](https://gshitesh.github.io/).
-
 ---
 
-## 4. What went well
-
-- **Internal package mirror.** Took a heap of OSS, repackaged it, shipped it as one boring installable artefact. Boring is good. Boring means people stop filing tickets.
-- **Slack &harr; Jenkins.** Build status, approvals, deploys &mdash; all in the channel where the work was already happening. Saved roughly one browser tab per engineer.
-- **Real-time ops dashboard.** Single page, one glance, you know if production is happy. The Grafana panels were the easy part; deciding what *not* to show was harder.
-- **Mentorship.** Onboarded two engineers without anyone needing to read three wikis.
-- **Cost reductions** measured in lakhs of rupees per quarter, not vibes.
-
-## 5. What went wrong
-
-- Estimated everything would take "a couple of days". Some of it did.
-- Tried to learn Kubernetes operators, OpenTelemetry, and Rust in the same week. Picked up one and a half.
-- Has not yet automated the part where the coffee makes itself.
-
----
-
-## 6. Telemetry
+## telemetry
 
 <div align="center">
 
@@ -125,49 +89,17 @@ For the full topology, see the [live portfolio](https://gshitesh.github.io/).
 </div>
 
 <sub>If the dashboards above are blank, the upstream service is having a moment.
-That's how observability works.</sub>
+That&rsquo;s how observability works.</sub>
 
 ---
 
-## 7. Certifications &amp; sign-off
+## the small print
 
-| Issued | Credential | Issuer |
-|:--|:--|:--|
-| <b>Jan 2026</b> | CompTIA Security+ | CompTIA |
-| 2023 | Meta Back-End Developer Professional Certificate | Coursera &middot; Meta |
-| 2023 | B.Tech &middot; Information Technology | VIT Vellore |
-
----
-
-## 8. Action items
-
-- [x] Ship the things that pay the bills.
-- [x] Make production easier to look at than to ignore.
-- [x] Earn CompTIA Security+. Stop hand-waving about IAM.
-- [ ] Get genuinely good at Rust.
-- [ ] Run a Kubernetes operator in anger, not just in a tutorial.
-- [ ] Read one paper a week. Currently behind.
-- [ ] Decide if "automate the coffee" is a metaphor or a real project.
-
----
-
-## 9. Contact
-
-| | |
-|---|---|
-| Portfolio   | <https://gshitesh.github.io/> |
-| LinkedIn    | [in/sai-hitesh-gorantla](https://www.linkedin.com/in/sai-hitesh-gorantla/) |
-| Email       | <saihitesh01@gmail.com> |
-| Location    | Bengaluru, IN &middot; <code>UTC+5:30</code> |
-| Hours       | best between the first and third cup |
-
----
-
-<sub><b>Appendix A &mdash; how to engage.</b> If you've got an interesting problem &mdash;
-something with logs, latency, flaky deploys, or three engineers and four opinions
-&mdash; open an issue against me. Replies typically arrive in the morning, after
-caffeine has reached steady state.</sub>
+If you&rsquo;ve got an interesting problem &mdash; something with logs, latency,
+flaky deploys, or three engineers and four opinions &mdash; open an issue
+against me. Replies typically arrive in the morning, after caffeine has
+reached steady state.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0f1320,100:05070d&height=80&section=footer&reversal=true" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f2740,100:0D1117&height=80&section=footer&reversal=true" alt="" />
 </p>
