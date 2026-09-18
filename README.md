@@ -39,7 +39,7 @@ runs on       a thinkpad that has seen things
 <tr><th align="left">when</th><th align="left">what</th></tr>
 <tr><td><code>this&nbsp;week</code></td><td>Wiring Slack into more places it doesn&rsquo;t belong, in a good way.</td></tr>
 <tr><td><code>this&nbsp;month</code></td><td>Quietly migrating a Jenkins fleet to GitHub Actions without anyone noticing.</td></tr>
-<tr><td><code>this&nbsp;year</code></td><td>Getting genuinely good at Rust. Reading one paper a week. Currently behind.</td></tr>
+<tr><td><code>this&nbsp;year</code></td><td>Getting genuinely good at problem solving. Reading one paper a week. Currently behind.</td></tr>
 <tr><td><code>always</code></td><td>Making production easier to look at than to ignore.</td></tr>
 </table>
 
@@ -66,7 +66,7 @@ runs on       a thinkpad that has seen things
 
 ---
 
-## telemetry
+## Contribution Graph
 
 <div align="center">
 
@@ -74,21 +74,13 @@ runs on       a thinkpad that has seen things
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GSHitesh&bg_color=0D1117&color=22d3ee&line=a78bfa&point=f8fafc&hide_border=true&area=true&theme=react-dark&v=2" width="98%" alt="Contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GSHitesh/GSHitesh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GSHitesh/GSHitesh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GSHitesh/GSHitesh/output/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
-
-<sub>If the dashboards above are blank, the upstream service is having a moment.
-That&rsquo;s how observability works.</sub>
-
----
-
-## the small print
-
-If you&rsquo;ve got an interesting problem &mdash; something with logs, latency,
-flaky deploys, or three engineers and four opinions &mdash; open an issue
-against me. Replies typically arrive in the morning, after caffeine has
-reached steady state.
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f2740,100:0D1117&height=80&section=footer&reversal=true" alt="" />
